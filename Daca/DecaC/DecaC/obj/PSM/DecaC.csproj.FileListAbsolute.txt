@@ -57,3 +57,32 @@ C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\Deca
 C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\IgnoreMe.dll
 C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\obj\PSM\DecaC.csprojResolveAssemblyReference.cache
 C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\CrabBaseStill.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\Images\Block.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\CrabTurret01.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Shadow.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\CrabWalkingAtlas.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\Particles\Smoke.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\Particles\Smoke2.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\Particles\Smoke3.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Cursor.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Drone.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\droneSmall.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Bullet.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Box.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Rocket.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\explosion.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\BulletImage.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\explosion2.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Enemy1.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Enemy.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Enemy2.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\InvisBlock.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\Text.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\SpriteFontMenu.xnb
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\CrabBaseStill.png
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Shadow.png
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\bin\PSM\IgnoreMe.dll
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\obj\PSM\DecaC.csprojResolveAssemblyReference.cache
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kameron\Documents\GitHub\GamesProgramming\Daca\DecaC\DecaC\obj\PSM\IgnoreMe.dll
