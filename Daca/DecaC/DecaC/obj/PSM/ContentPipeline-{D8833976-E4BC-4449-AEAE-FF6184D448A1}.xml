@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>CrabSprites\CrabBaseStill.png</Source>
+      <Name>CrabSprites\CrabBaseStill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\CrabBaseStill.xnb</Output>
+      <Time>2015-04-02T17:33:30.5533225+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Block.png</Source>
+      <Name>Images\Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\Images\Block.xnb</Output>
+      <Time>2015-03-21T20:58:58.2719245+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\CrabTurret01.png</Source>
+      <Name>CrabSprites\CrabTurret01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\CrabTurret01.xnb</Output>
+      <Time>2015-04-02T17:32:18.7046499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Shadow.png</Source>
+      <Name>CrabSprites\Shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Shadow.xnb</Output>
+      <Time>2015-04-13T11:07:06.3548727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\CrabWalkingAtlas.png</Source>
+      <Name>CrabSprites\CrabWalkingAtlas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\CrabWalkingAtlas.xnb</Output>
+      <Time>2015-03-22T15:54:57.5712118+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Smoke.png</Source>
+      <Name>Particles\Smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\Particles\Smoke.xnb</Output>
+      <Time>2015-04-17T15:39:20.8836093+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Smoke2.png</Source>
+      <Name>Particles\Smoke2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\Particles\Smoke2.xnb</Output>
+      <Time>2015-04-17T15:39:28.5212467+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Smoke3.png</Source>
+      <Name>Particles\Smoke3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\Particles\Smoke3.xnb</Output>
+      <Time>2015-04-17T15:39:35.694982+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Cursor.png</Source>
+      <Name>CrabSprites\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Cursor.xnb</Output>
+      <Time>2015-04-17T20:26:03.5143251+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Drone.png</Source>
+      <Name>CrabSprites\Drone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Drone.xnb</Output>
+      <Time>2015-04-04T13:31:18.3581721+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\droneSmall.png</Source>
+      <Name>CrabSprites\droneSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\droneSmall.xnb</Output>
+      <Time>2015-04-04T13:33:09.0715963+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Bullet.png</Source>
+      <Name>CrabSprites\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Bullet.xnb</Output>
+      <Time>2015-04-12T10:25:06.0370213+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Box.png</Source>
+      <Name>CrabSprites\Box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Box.xnb</Output>
+      <Time>2015-04-17T16:42:42.5624029+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Rocket.png</Source>
+      <Name>CrabSprites\Rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Rocket.xnb</Output>
+      <Time>2015-04-13T15:33:24.8376749+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\explosion.png</Source>
+      <Name>CrabSprites\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\explosion.xnb</Output>
+      <Time>2015-04-17T16:59:46.1462865+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\BulletImage.png</Source>
+      <Name>CrabSprites\BulletImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\BulletImage.xnb</Output>
+      <Time>2015-04-17T21:10:20.3491968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\explosion2.png</Source>
+      <Name>CrabSprites\explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\explosion2.xnb</Output>
+      <Time>2015-04-17T23:49:28.8481982+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Enemy1.png</Source>
+      <Name>CrabSprites\Enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Enemy1.xnb</Output>
+      <Time>2015-04-18T00:04:24.119759+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Enemy.png</Source>
+      <Name>CrabSprites\Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Enemy.xnb</Output>
+      <Time>2015-04-19T00:14:32.338038+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\Enemy2.png</Source>
+      <Name>CrabSprites\Enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\Enemy2.xnb</Output>
+      <Time>2015-04-21T10:54:22.183918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CrabSprites\InvisBlock.png</Source>
+      <Name>CrabSprites\InvisBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\CrabSprites\InvisBlock.xnb</Output>
+      <Time>2015-04-21T11:42:10.7908183+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Text.spritefont</Source>
+      <Name>Text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\Text.xnb</Output>
+      <Time>2015-04-17T19:56:18.3806614+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFontMenu.spritefont</Source>
+      <Name>SpriteFontMenu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\SpriteFontMenu.xnb</Output>
+      <Time>2015-04-21T12:40:44.0887721+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D8833976-E4BC-4449-AEAE-FF6184D448A1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>PSM</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaCContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kameron\Documents\Uni Year 2 S2\Kameron Howlett CGP2011M 1415\Daca\DecaC\DecaC\bin\PSM\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2014-04-05T22:56:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-21T14:35:47.3799414+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
